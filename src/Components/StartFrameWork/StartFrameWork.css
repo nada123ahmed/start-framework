@@ -1,0 +1,13 @@
+
+
+.avatar-img {
+  width: 200px; 
+  height: auto; 
+}
+
+    .line {
+        display: block; 
+        width: 80px; 
+        height: 5px; 
+        background-color: white; 
+    }

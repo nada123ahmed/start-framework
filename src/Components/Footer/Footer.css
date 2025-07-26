@@ -1,0 +1,47 @@
+.back-custom{
+     background-color: #2c3e50 !important;
+}
+
+ .icon-wrapper {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  width: 40px; 
+  height: 40px;
+  border: 1px solid white;
+  border-radius: 50%;
+  text-decoration: none; 
+  color: white; 
+  transition: all 0.3s ease; 
+}
+
+
+.icon-wrapper i {
+  font-size: 1.2rem; 
+}
+
+
+.icon-wrapper:hover {
+  background-color: white;
+  color: #2c3e50; 
+  cursor: pointer;
+}
+
+
+.icon-wrapper {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+}
+
+.icon-wrapper i {
+  z-index: 1; 
+  font-size: 1.2rem;
+}
